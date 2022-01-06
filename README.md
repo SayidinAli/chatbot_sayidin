@@ -58,6 +58,10 @@ Takes string text and returns the dialogflow response.
 ### Change icons/images
 Go to file `chatbot.js`
 
+## References
+- [Chat UI](https://codepen.io/shivapandey/pen/dWdRYM?editors=1000)
+- [Create Dialogflow](https://botflo.com/php-client-library-for-dialogflow-v2-api-getting-started/)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
