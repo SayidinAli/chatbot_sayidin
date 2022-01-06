@@ -1,5 +1,5 @@
 {
-    "name": "MahmoudSayed96/chatbot-dialogflow",
+    "name": "mahmoudsayed96/chatbot-dialogflow",
     "description": "Integrate google dialogflow chatbot",
     "type": "project",
     "authors": [
@@ -8,5 +8,7 @@
             "email": "m.sayedfci@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "google/cloud-dialogflow": "^0.23.4"
+    }
 }
